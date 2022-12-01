@@ -55,13 +55,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Nick Hand"
+  name: "Haobing Liu"
   avatar:
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "Student from MUSA UPenn"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://nickhand.dev"
+      url: "https://google.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
