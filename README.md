@@ -2,7 +2,7 @@
 
 A template for including data visualizations in a Jekyll-powered blog with Github Pages.
 
-[DEMO](https://shevilovia.github.io/Test-Lab/)
+[DEMO](https://shevilovia.github.io/Crime-Predition/)
 
 ## Steps
 
